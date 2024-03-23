@@ -4,7 +4,7 @@ from phonenumbers import geocoder, carrier
 from opencage.geocoder import OpenCageGeocode
 
 # Define the phone number
-phone_number = '+6597740497'
+phone_number = 'YOUR PHONE NUMBER'
 
 # Parse the phone number
 the_number = phonenumbers.parse(phone_number)
